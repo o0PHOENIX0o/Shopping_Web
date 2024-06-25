@@ -9,7 +9,6 @@ Welcome to the Static Shopping Website repository! This project is a simple, sta
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 
 
@@ -17,9 +16,7 @@ Welcome to the Static Shopping Website repository! This project is a simple, sta
 
 - **Responsive Design**: Works on desktop, tablet, and mobile devices.
 - **Product Listings**: Display products with images, descriptions, and prices.
-- **Search Functionality**: Quickly find products using the search bar.
-- **Filter Options**: Filter products by categories.
-- **Static Pages**: About Us, Contact, and Privacy Policy pages.
+- **Static Pages**: Manufacturing Facilities, Products Page
 
 ## Demo
 
@@ -50,13 +47,6 @@ You will need a web browser to view the website. No additional software is requi
 3. **Open the `index.html` file in your web browser:**
 
     You can do this by double-clicking the `index.html` file or by opening it through your browser's file menu.
-
-## Usage
-
-- **Home Page**: Browse the product listings on the home page.
-- **Search**: Use the search bar at the top to find products by name.
-- **Filter**: Use the category filters to narrow down the product listings.
-- **Product Details**: Click on a product to view more details.
 
 ## Contributing
 
